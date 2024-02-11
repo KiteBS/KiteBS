@@ -1,3 +1,4 @@
+**this is a *sentence* with some ***formatting*
 <p align="center">
   <a href="https://www.medusajs.com">
   <picture>
